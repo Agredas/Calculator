@@ -1,14 +1,16 @@
 {
-    "idleHeartbeats": 160,
-    "navigatingHeartbeats": 114,
-    "totalCodingHeartbeats": 1147,
+    "idleHeartbeats": 296,
+    "navigatingHeartbeats": 202,
+    "totalCodingHeartbeats": 1483,
     "languageHeartbeats": {
-        "html": 1092,
-        "plaintext": 55
+        "html": 1249,
+        "plaintext": 104,
+        "javascript": 130
     },
     "fileHeartbeats": {
-        "index.html": 979,
+        "index.html": 1136,
         "c:\\Users\\Usuario\\Desktop\\GeeksHub\\JavaScript_ES6\\ejercicio_cal\\index.html": 113,
-        "c:\\Users\\Usuario\\Desktop\\Calculator\\index.html.git": 55
+        "c:\\Users\\Usuario\\Desktop\\Calculator\\index.html.git": 104,
+        "js/main.js": 130
     }
 }

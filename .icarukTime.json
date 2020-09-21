@@ -1,11 +1,14 @@
 {
-    "idleHeartbeats": 5,
-    "navigatingHeartbeats": 42,
-    "totalCodingHeartbeats": 429,
+    "idleHeartbeats": 160,
+    "navigatingHeartbeats": 114,
+    "totalCodingHeartbeats": 1147,
     "languageHeartbeats": {
-        "html": 429
+        "html": 1092,
+        "plaintext": 55
     },
     "fileHeartbeats": {
-        "index.html": 429
+        "index.html": 979,
+        "c:\\Users\\Usuario\\Desktop\\GeeksHub\\JavaScript_ES6\\ejercicio_cal\\index.html": 113,
+        "c:\\Users\\Usuario\\Desktop\\Calculator\\index.html.git": 55
     }
 }
